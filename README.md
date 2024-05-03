@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 im Carlos /  Economist - Data scientist 
+<h1 align="center">Hi 👋 im Carlos / Data Scientist & Economics Enthusiast
 
 ### 🌟 Welcome to my world of data-driven insights and innovation! 🌟
 With a foundation in Economics and a passion for leveraging the power of data, I thrive in the realm of predictive modeling and data analysis. 💼 Armed with certifications in Data Science and a toolkit including Python, SQL, and more, I transform raw data into actionable strategies. 🚀 From crafting dynamic dashboards to leading data analysis projects, I bring a blend of analytical prowess and strategic vision to the table. Let's collaborate, innovate, and unravel the endless possibilities hidden within the data universe! 📊💡
@@ -6,8 +6,15 @@ With a foundation in Economics and a passion for leveraging the power of data, I
 
 
 ## 🚀 About Me
-Im improving my git hub readme
-## 🔗 Links
+- 💰 Exploring the fascinating realm of Economics, where trends and fluctuations unveil captivating insights into human behavior. 📊
+- 👓 Sharpening my Object-Oriented Programming (OOP) skills in Python. 🐍
+- 🤓 Currently immersed in "Deep Learning: A Visual Approach" by Andrew Glassner. 📖
+- 👀 Eyes on the prize: Learning to code in JavaScript. 🎡
+- 🎯 My next goal: Pursuing a Master's Degree in Computer Science and Mathematics. 📈
+- 🔍 Always staying updated on the latest trends in AI. 🤖
+- 📚 I have a passion for learning, especially when it comes to the works of the writer Lovecraft. Among his captivating tales, "The Call of Cthulhu" holds a special place in my heart. 🦑
+
+## My social network
 <div align="left">
   <a href="https://www.linkedin.com/in/carlosortizg" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><www.google.com>
   <a href="https://twitter.com/Carlosortiz_210" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
