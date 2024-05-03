@@ -37,7 +37,7 @@ With a foundation in Economics and a passion for leveraging the power of data, I
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosortiz-21&show_icons=true&theme=shadow_blue" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosOrtiz-21&layout=compact&langs_count=8&card_width=320" />
 </a>
 <div align="left">
   
