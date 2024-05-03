@@ -15,9 +15,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/carlosortiz-21/carlosortiz-21/output/snake.svg" alt="Snake animation" />
 
 ###
 
