@@ -34,10 +34,10 @@ With a foundation in Economics and a passion for leveraging the power of data, I
 ###
 ## 🦾 Current Github Stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosortiz-21&show_icons=true&theme=shadow_blue" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosortiz-21&show_icons=true&theme=shadow_blue" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosOrtiz-21&show_icons=true&theme=shadow_blue&layout=compact&langs_count=8&card_width=25" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosOrtiz-21&show_icons=true&theme=shadow_blue&layout=compact&langs_count=8&card_width=20" />
 </a>
 <div align="center">
   
