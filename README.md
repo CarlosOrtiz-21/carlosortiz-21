@@ -26,7 +26,7 @@ With a foundation in Economics and a passion for leveraging the power of data, I
 
 
 ###
-## 🃏 Wecome to my github Profile: 
+## 🃏 Wecome you are the visitor: 
 <div align="center">
   <img src="https://profile-counter.glitch.me/carlosortiz-21/count.svg?"  />
 </div>
@@ -64,7 +64,3 @@ With a foundation in Economics and a passion for leveraging the power of data, I
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-
-
-
