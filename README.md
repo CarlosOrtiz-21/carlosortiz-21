@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 im Carlos / Data Scientist & Economics Enthusiast
+r<h1 align="center">Hi 👋 im Carlos / Data Scientist & Economics Enthusiast
 
 ### 🌟 Welcome to my world of data-driven insights and innovation! 🌟
 With a foundation in Economics and a passion for leveraging the power of data, I thrive in the realm of predictive modeling and data analysis. 💼 Armed with certifications in Data Science and a toolkit including Python, SQL, and more, I transform raw data into actionable strategies. 🚀 From crafting dynamic dashboards to leading data analysis projects, I bring a blend of analytical prowess and strategic vision to the table. Let's collaborate, innovate, and unravel the endless possibilities hidden within the data universe! 📊💡
@@ -39,7 +39,7 @@ With a foundation in Economics and a passion for leveraging the power of data, I
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosOrtiz-21&layout=compact&langs_count=8&card_width=32" />
 </a>
-<div align="left">
+<div align="center">
   
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CarlosOrtiz-21&theme=shadow-blue" alt="GitHub Streak" /></a>
   
